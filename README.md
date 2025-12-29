@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <!-- Girl coding -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360" />
 </p>
 
-
+<p align="center">
+  <!-- Girl playing cricket -->
+  <img src="https://media.giphy.com/media/3o7TKsQ8U3JHcV7nRC/giphy.gif" width="360" />
+</p>
