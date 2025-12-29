@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Khan Saloni</h2>
 
 <p align="center">
-  <b>Web3 & AI Builder</b>
+  <b>Web3 & AI Builder,Blockchain</b>
 </p>
 
 <p align="center">
